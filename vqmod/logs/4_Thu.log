@@ -1,0 +1,75 @@
+---------- Date: 2017-04-06 11:56:21 ~ IP : 110.232.83.212 ----------
+REQUEST URI : /admin/index.php?route=d_shopunity/market&token=M0nvkBXGT3KNLlfrAqdoL8ADflXIsnH8&category_id=3
+MOD DETAILS:
+   modFile   : /home/u345637859/public_html/vqmod/xml/a_vqmod_d_quickcheckout.xml
+   id        : AJAX QUICK CHECKOUT V6 BY DREAMVENTION
+   version   : 2.0.0.0
+   vqmver    : 2.2.1
+   author    : dreamvention.com
+VQModObject::parseMods - Could not resolve path for [system/library/tax.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [system/library/tax.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [system/library/tax.php] (SKIPPED)
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-04-06 11:58:43 ~ IP : 110.232.83.212 ----------
+REQUEST URI : /admin/index.php?route=module/d_quickcheckout/createSetting&token=M0nvkBXGT3KNLlfrAqdoL8ADflXIsnH8
+MOD DETAILS:
+   modFile   : /home/u345637859/public_html/vqmod/xml/a_vqmod_d_quickcheckout.xml
+   id        : AJAX QUICK CHECKOUT V6 BY DREAMVENTION
+   version   : 2.0.0.0
+   vqmver    : 2.2.1
+   author    : dreamvention.com
+VQModObject::parseMods - Could not resolve path for [system/library/tax.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [system/library/tax.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [system/library/tax.php] (SKIPPED)
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-04-06 11:58:45 ~ IP : 110.232.83.212 ----------
+REQUEST URI : /admin/index.php?route=module/d_quickcheckout&store_id=0&setting_id=1&token=M0nvkBXGT3KNLlfrAqdoL8ADflXIsnH8
+MOD DETAILS:
+   modFile   : /home/u345637859/public_html/vqmod/xml/a_vqmod_shopunity.xml
+   id        : d_shopunity
+   version   : 3.0.0
+   vqmver    : 2.1.1
+   author    : shopunity.net
+
+File Name    : admin/view/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown"><span class="label label-danger pull-left"><?php echo $alerts; ?></span> <i class="fa fa-bell fa-lg"></i></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2017-04-06 12:11:42 ~ IP : 110.232.83.212 ----------
+REQUEST URI : /admin/index.php?route=d_shopunity/market&token=M0nvkBXGT3KNLlfrAqdoL8ADflXIsnH8&commercial=0&page=3
+MOD DETAILS:
+   modFile   : /home/u345637859/public_html/vqmod/xml/a_vqmod_d_quickcheckout.xml
+   id        : AJAX QUICK CHECKOUT V6 BY DREAMVENTION
+   version   : 2.0.0.0
+   vqmver    : 2.2.1
+   author    : dreamvention.com
+VQModObject::parseMods - Could not resolve path for [system/library/tax.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [system/library/tax.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [system/library/tax.php] (SKIPPED)
+MOD DETAILS:
+   modFile   : /home/u345637859/public_html/vqmod/xml/a_vqmod_d_social_login.xml
+   id        : d_social_login
+   version   : 2.x
+   vqmver    : 2.4.1
+   author    : dreamvention.com
+VQModObject::parseMods - Could not resolve path for [admin/model/sale/customer.php] (SKIPPED)
+
+MOD DETAILS:
+   modFile   : /home/u345637859/public_html/vqmod/xml/a_vqmod_shopunity.xml
+   id        : d_shopunity
+   version   : 3.0.0
+   vqmver    : 2.1.1
+   author    : shopunity.net
+
+File Name    : admin/view/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown"><span class="label label-danger pull-left"><?php echo $alerts; ?></span> <i class="fa fa-bell fa-lg"></i></a>
+
+----------------------------------------------------------------------
+
+

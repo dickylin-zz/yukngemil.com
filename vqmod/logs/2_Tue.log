@@ -1,0 +1,22 @@
+---------- Date: 2017-04-25 07:35:00 ~ IP : 202.67.44.28 ----------
+REQUEST URI : /index.php?route=module/mobileassistantconnector&store_id=0&push_new_customer=1&app_connection_id=2&device_unique_id=ea6567e9a27a930371393928e9552bb2be97708b3cc491f2d018fa2dfe5d23da&push_order_statuses=-1&app_ver_code=61&api_key=AIzaSyDIq4agB70Zv7AkB9pVuF2KxcU4WQ94CVI&account_email=ahi09rks88@gmail.com&currency_code=IDR&push_currency_code=IDR&call_function=push_notification_settings&key=7df9eec607e0e352ef5753c2ce984e5f04228112cc07ea0ff33436d08ff3452a&device_name=LGE%20LG-D690&push_new_order=1&registration_id=d1m9Aml_2Iw:APA91bFbvCrZoqByEYCUGq8BuhWVoul_sR15_4MpRuMA0QkSKB2y3_KEWOxEYBZeJzz3gFxO2XCEy1DycrQQjQW5DmQ6uIMfN_CdyHx-lLMk7erZ7iEcSL8-VT4b3YjnH06Fg1S2QMow
+MOD DETAILS:
+   modFile   : /home/u345637859/public_html/vqmod/xml/a_vqmod_d_quickcheckout.xml
+   id        : AJAX QUICK CHECKOUT V6 BY DREAMVENTION
+   version   : 2.0.0.0
+   vqmver    : 2.2.1
+   author    : dreamvention.com
+VQModObject::parseMods - Could not resolve path for [system/library/tax.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [system/library/tax.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [system/library/tax.php] (SKIPPED)
+MOD DETAILS:
+   modFile   : /home/u345637859/public_html/vqmod/xml/a_vqmod_d_social_login.xml
+   id        : d_social_login
+   version   : 2.x
+   vqmver    : 2.4.1
+   author    : dreamvention.com
+VQModObject::parseMods - Could not resolve path for [admin/model/sale/customer.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+

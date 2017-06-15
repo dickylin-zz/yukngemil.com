@@ -1,0 +1,34 @@
+<extension>
+    <id>d_social_like_lite</id>
+    <name>Social like Lite</name>
+    <description>
+    This module adds social network like buttons to your webshop. place them anywhere you like and the like buttons will automatically like the current page.
+    </description>
+    <type>module</type>
+    <version>1.0</version>
+    <license>light</license>
+    <opencart_version>2.0.0.0,2.0.1.0,2.0.1.1</opencart_version>
+    <mbooth_version>3.0</mbooth_version>
+    <author>Dreamvention</author>
+    <files>
+        <file>system/mbooth/xml/mbooth_d_social_like_lite.xml</file>
+		<file>system/config/d_social_like_lite.php</file>
+
+        <file>admin/controller/module/d_social_like_lite.php</file>
+		<file>admin/language/english/module/d_social_like_lite.php</file>
+		<file>admin/model/module/d_social_like_lite.php</file>
+		<file>admin/view/template/module/d_social_like_lite.tpl</file>
+		<file>admin/view/stylesheet/d_social_like_lite.css</file>
+		
+		<file>catalog/controller/module/d_social_like_lite.php</file>
+		<file>catalog/language/english/module/d_social_like_lite.php</file>
+		<file>catalog/view/theme/default/template/module/d_social_like_lite.tpl</file>
+    </files>
+	<dirs>
+		<dir>admin/view/image/d_social_like_lite</dir>
+		<dir>catalog/view/theme/default/stylesheet/d_social_like_lite</dir>
+	</dirs>
+    <updates>
+        <update version="1.0"></update>
+    </updates>
+</extension>

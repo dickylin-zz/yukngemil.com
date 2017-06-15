@@ -1,0 +1,61 @@
+{
+    "codename": "d_social_like_lite",
+    "version": "2.0.0",
+    "name": "Social Like Lite",
+    "description": "This module adds social network like buttons to your webshop. place them anywhere you like and the like buttons will automatically like the current page.",
+    "author": {
+        "name": "Dreamvention",
+        "email": "info@dreamvention.com",
+        "url": "https://dreamvention.com/"
+    },
+    "opencart_version": [
+        "2.0.1.1",
+        "2.0.1.1",
+        "2.0.2.0",
+        "2.0.3.1",
+        "2.1.0.1",
+        "2.1.0.2",
+        "2.2.0.0"
+    ],
+    "mbooth_version": "^4.0.0",
+    "type": "module",
+    "license": {
+        "type": "free",
+        "url": "https://shopunity.net/licenses/free"
+    },
+    "install": {
+        "url": "extension/module/install&extension=d_social_like_lite"
+    },
+    "support": {
+        "email": "support@dreamvention.com",
+        "url": "https://dreamvention.com/support"
+    },
+    "required": {
+        "d_shopunity": ">= 3.0.0"
+    },
+    "files": [
+        "system/mbooth/extension/d_social_like_lite.json",
+        "system/mbooth/xml/mbooth_d_social_like_lite.xml",
+        "system/config/d_social_like_lite.php",
+
+        "admin/controller/module/d_social_like_lite.php",
+        "admin/language/english/module/d_social_like_lite.php",
+        "admin/model/module/d_social_like_lite.php",
+        "admin/view/template/module/d_social_like_lite.tpl",
+        "admin/view/stylesheet/d_social_like_lite.css",
+
+        "catalog/controller/module/d_social_like_lite.php",
+        "catalog/language/english/module/d_social_like_lite.php",
+        "catalog/view/theme/default/template/module/d_social_like_lite.tpl"
+    ],
+    "dirs": [
+        "admin/view/image/d_social_like_lite",
+        "catalog/view/theme/default/stylesheet/d_social_like_lite"       
+    ],
+    "changelog": [
+        {
+            "version":"2.0.0",
+            "change": ""
+        }
+    ]
+}
